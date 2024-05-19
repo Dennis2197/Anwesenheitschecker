@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Anwesenheitscheck:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Anwesenheitscheck_jar</output-path>
+    <root id="archive" name="Anwesenheitscheck.jar">
+      <element id="module-output" name="Anwesenheitscheck" />
+    </root>
+  </artifact>
+</component>
